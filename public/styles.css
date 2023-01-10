@@ -1,0 +1,11 @@
+form{
+    white-space: nowrap;
+}
+
+.form-control{
+    display: inline-block;
+}
+
+.btn{
+    display: inline-block;
+}
